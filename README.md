@@ -56,6 +56,8 @@ Formation continue autour de :
 - VueSchool
 - SymfonyCasts
 - IBM SkillsBuild
+- Akeneo
+- Pimcore Academy
 - Udemy
 - OpenClassrooms
 - SoloLearn
