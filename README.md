@@ -55,6 +55,7 @@ Formation continue autour de :
 **Sources :** 
 - VueSchool
 - SymfonyCasts
+- IBM SkillsBuild
 - Udemy
 - OpenClassrooms
 - SoloLearn
